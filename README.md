@@ -1,2 +1,2 @@
-# chittai1221-gmail.com
+# 用途
 Google Code Jam で書いたコード
